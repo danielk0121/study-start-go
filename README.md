@@ -32,7 +32,7 @@
 # todo task
 
 - 자료 조사 (doc) + 예제 코드
-- [x] 키워드
+- [x] 키워드 : [01keyword.md](doc/01keyword.md)
 - [ ] 연산자
 - [ ] 패키지, 변수, 클래스, 타입, 구조체
 - [ ] 형변환
@@ -54,8 +54,8 @@
 - [ ] sql
   - [ ] mysql CRUD
   - [ ] mysql 설정
-- [ ] 웹 서버 (Gin-Gonic)
-- [ ] 샘플 도메인 rest api
+- [x] 웹 서버 (Gin) 테스트 실행 : [main.go](cmd/hello_gin/main.go)
+- [ ] 샘플 도메인 rest api 작성
 - [ ] 기타 특징 (defer, go, 등)
 
 
