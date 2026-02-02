@@ -54,7 +54,7 @@
 - [ ] sql
   - [ ] mysql CRUD
   - [ ] mysql 설정
-- [x] 웹 서버 (Gin) 테스트 실행 : [main.go](cmd/hello_gin/main.go)
+- [x] 웹 서버 (Gin) 테스트 실행 : [cmd/hello_gin/main.go](cmd/hello_gin/main.go)
 - [ ] 샘플 도메인 rest api 작성
 - [ ] 기타 특징 (defer, go, 등)
 
